@@ -1,1 +1,1 @@
-FROM labring/kubernetes:v1.30.0
+FROM labring/kubernetes:v1.29.0
